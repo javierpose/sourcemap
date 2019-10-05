@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAIA,MAAM;EACJ,gBAAgB,ECLL,KAAK;;ACAlB,IAAI;EACF,gBAAgB,EAAE,MAAM;;ACD1B,MAAM;EACJ,gBAAgB,EAAE,GAAG",
+"sources": ["_header.scss","_variables.scss","_main.scss","_footer.scss"],
+"names": [],
+"file": "styles.css"
+}
